@@ -8,4 +8,10 @@ Using money as a form of protest
 
 > Author: [Bruno Adelé](https://github.com/badele)
 >
-> FRENCH | GAFAMLESS | MONEYASPROTEST | FIST | RAISED
+> FRENCH | GAFAMFREE | MONEYASPROTEST | FIST | RAISED
+
+![Money vote as Protest](./poster/french/ballot-vote/ballot-vote.svg)
+
+> Author: [Bruno Adelé](https://github.com/badele)
+>
+> FRENCH | MONEYASPROTEST | BALLOT | VOTE
