@@ -1,6 +1,15 @@
 # money-as-protest
 
-Using money as a form of protest
+For some time now, I've felt that traditional forms of protest are no longer
+enough to make a real difference. Not because the causes have disappeared — but
+because the levers of power have changed.
+
+Much of this power is now economic and digital. In this context, I believe one
+of our most direct means of action remains: our money.
+
+It's from this conviction that I launched a project I called money-as-protest.
+The idea is simple: to emphasize that our economic choices can become a form of
+protest.
 
 ## Posters
 
